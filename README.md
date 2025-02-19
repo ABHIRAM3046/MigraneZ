@@ -120,5 +120,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Contact
-For questions or support, please reach out via the contact form on the application or email us at email IDs mentioned in the webpage. 
+For questions or support, please reach out via the contact form on the application or email us at email IDs mentioned in the webpage..
 
